@@ -20,6 +20,6 @@ $(".search").findInPage({keyword:"am"});
 Option
 -----
 
--tag
--mark
--caseSensitive
+- tag (which element tag to use to enclose the strings)
+- mark (className of the tag to highlight the strings)
+- caseSensitive (If you want to search words with the correct case, set it as true)
