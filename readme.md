@@ -17,6 +17,10 @@ $(".search").findInPage({keyword:"am"});
 </script>
 ```
 
+Result
+-----
+<img src="https://raw.github.com/steelydylan/findInPage/master/result.png"></img>
+
 Option
 -----
 
